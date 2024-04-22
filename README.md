@@ -1,4 +1,4 @@
-### Project Summary for Website
+
 
 **Project Title:** Bar Crawl Analysis
 
